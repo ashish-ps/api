@@ -8,7 +8,7 @@ while ($row = $result->fetch_assoc()) {
   $data[] = $row;
 }
 
-
+die();
 die("sjsjsj");
 die("sss");
 echo json_encode($data); die;
