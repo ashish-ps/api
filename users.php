@@ -10,7 +10,7 @@ while ($row = $result->fetch_assoc()) {
 
 
 die("sjsjsj");
-
+die("sss");
 echo json_encode($data); die;
 
 
