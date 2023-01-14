@@ -8,6 +8,9 @@ while ($row = $result->fetch_assoc()) {
   $data[] = $row;
 }
 
+
+die("sjsjsj");
+
 echo json_encode($data); die;
 
 
