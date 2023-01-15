@@ -15,6 +15,7 @@ die("sss");
 die("Learning git");
 
 die("learning1");
+die("learning2");
 echo json_encode($data); die;
 
 
