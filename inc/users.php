@@ -12,6 +12,7 @@ die("sksks");
 die();
 die("sjsjsj");
 die("sss");
+die("devlo code");
 echo json_encode($data); die;
 
 
