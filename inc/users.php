@@ -13,6 +13,8 @@ die();
 die("sjsjsj");
 die("sss");
 die("Learning git");
+
+die("learning1");
 echo json_encode($data); die;
 
 
